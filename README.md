@@ -9,7 +9,7 @@ Pada kasus ini adalah membangun sebuah sistem berbasis fuzzy logic untuk memilih
 * •	Metode Defuzzifikasi
 * •	Bentuk dan Batas Fungsi Keanggotaan Output (sesuai metode defuzzifikasi)
 
-## proses yang Dibangun :
+## Proses yang Dibangun :
 * Fuzzifikasi
 * Inferensi
 * Deffuzifikasi
